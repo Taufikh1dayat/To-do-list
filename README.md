@@ -24,8 +24,6 @@ Clone repository ini:
 git clone https://github.com/Taufikh1dayat/To-do-list.git
 Buka file index.html di browser.
 
-🔗 Demo
-Jika proyek ini sudah di-hosting, tambahkan link demo di sini!
 
 📌 Kontribusi
 Silakan buat Pull Request jika ingin berkontribusi atau melaporkan bug!
